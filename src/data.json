@@ -1,0 +1,18 @@
+[
+    {
+      "asset": "ETH",
+      "yieldRate": 5.2,
+      "totalYield": 2000
+    },
+    {
+      "asset": "DAI",
+      "yieldRate": 3.4,
+      "totalYield": 1500
+    },
+    {
+      "asset": "USDC",
+      "yieldRate": 4.1,
+      "totalYield": 1200
+    }
+  ]
+  
