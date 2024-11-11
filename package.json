@@ -2,6 +2,19 @@
   "name": "defi-yield-dashboard",
   "version": "0.1.0",
   "private": true,
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mahmoudfa97/DeFi-Yield-Dashboard-DApp.git"
+  },
+  "keywords": [
+    "crypto"
+  ],
+  "author": "Mahmoud Faour",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mahmoudfa97/DeFi-Yield-Dashboard-DApp/issues"
+  },
+  "homepage": "https://github.com/mahmoudfa97/DeFi-Yield-Dashboard-DApp#readme",
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
     "@testing-library/react": "^13.4.0",
