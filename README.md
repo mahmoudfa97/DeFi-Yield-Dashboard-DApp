@@ -4,9 +4,9 @@
 
 ### Project Structure and Key Features
 
-1. **Next.js Project Setup**
-   - Initialize a Next.js project with TypeScript to ensure type safety.
-   - Use `next-seo` for SEO-friendly metadata.
+1. **React.js Project Setup**
+   - Initialize a React.js project with TypeScript to ensure type safety.
+   - SEO-friendly metadata.
 
 2. **Tailwind CSS Styling**
    - Configure Tailwind CSS for responsive and efficient styling.
